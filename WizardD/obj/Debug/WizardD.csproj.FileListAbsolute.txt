@@ -1,0 +1,16 @@
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\obj\Debug\WizardD.csproj.AssemblyReference.cache
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\obj\Debug\WizardD.dll
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\obj\Debug\WizardD.pdb
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\bin\Debug\WizardD.dll
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\bin\Debug\WizardD.pdb
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\obj\Debug\WizardD.Properties.Resources.resources
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\obj\Debug\WizardD.csproj.GenerateResource.cache
+D:\22ИС2-5Д (2 курс)\Основы алгоритмизации и программирования\WizardD\obj\Debug\WizardD.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\WizardD\bin\Debug\WizardD.dll
+C:\Users\ivans\source\repos\WizardD\bin\Debug\WizardD.pdb
+C:\Users\ivans\source\repos\WizardD\obj\Debug\WizardD.csproj.AssemblyReference.cache
+C:\Users\ivans\source\repos\WizardD\obj\Debug\WizardD.Properties.Resources.resources
+C:\Users\ivans\source\repos\WizardD\obj\Debug\WizardD.csproj.GenerateResource.cache
+C:\Users\ivans\source\repos\WizardD\obj\Debug\WizardD.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\WizardD\obj\Debug\WizardD.dll
+C:\Users\ivans\source\repos\WizardD\obj\Debug\WizardD.pdb
