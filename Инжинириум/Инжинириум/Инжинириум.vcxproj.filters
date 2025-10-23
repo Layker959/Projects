@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\Модуль 1">
+      <UniqueIdentifier>{661a9254-1350-47ff-b4ec-54fe30cea2ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Модуль 1\Тестирование по модулю">
+      <UniqueIdentifier>{ba626be6-3575-48ef-950e-f6a2d86b3fc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Модуль 1\Решение задач с использованием логических выражений.">
+      <UniqueIdentifier>{fac0faa2-d761-417c-a104-22a4c7a7f73c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Модуль 1\Решение задач на условия и случаи.">
+      <UniqueIdentifier>{7b39522d-8951-4399-8cb1-b4cfd845424f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Модуль 1\Решение задач на использование циклов.">
+      <UniqueIdentifier>{818f51dc-fca3-455d-bf42-ba4a882a90da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Модуль 1\Базовые типы данных, арифметические операции. Переменные. Константы и модификаторы типов.">
+      <UniqueIdentifier>{276fd273-20db-4fd0-9874-dc695174ed8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\Модуль 1\Модуль 1. Повторение">
+      <UniqueIdentifier>{dfb474fa-6f27-4ce4-a996-6395ff6a9f17}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Задание №1. Среднее арифметическое.cpp">
+      <Filter>Исходные файлы\Модуль 1\Базовые типы данных, арифметические операции. Переменные. Константы и модификаторы типов.</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №2. Сумма чисел с плавающей точкой.cpp">
+      <Filter>Исходные файлы\Модуль 1\Базовые типы данных, арифметические операции. Переменные. Константы и модификаторы типов.</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №1. Максимальное значение.cpp">
+      <Filter>Исходные файлы\Модуль 1\Решение задач с использованием логических выражений.</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №2. Четность или нечестно числа.cpp">
+      <Filter>Исходные файлы\Модуль 1\Решение задач с использованием логических выражений.</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №1. Минимальное число.cpp">
+      <Filter>Исходные файлы\Модуль 1\Решение задач на условия и случаи.</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №3. Столицы.cpp">
+      <Filter>Исходные файлы\Модуль 1\Решение задач на условия и случаи.</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №1. Вывод чисел на экран с условием.cpp">
+      <Filter>Исходные файлы\Модуль 1\Решение задач на использование циклов.</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №3. Сумма квадратов чисел.cpp">
+      <Filter>Исходные файлы\Модуль 1\Решение задач на использование циклов.</Filter>
+    </ClCompile>
+    <ClCompile Include="С++_База_1_модуль.cpp">
+      <Filter>Исходные файлы\Модуль 1\Тестирование по модулю</Filter>
+    </ClCompile>
+    <ClCompile Include="С++_База_9_модуль.cpp">
+      <Filter>Исходные файлы\Модуль 1\Тестирование по модулю</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №1. Базовые типы данных, арифметические операции. Переменные. Константы и модификаторы типов..cpp">
+      <Filter>Исходные файлы\Модуль 1\Модуль 1. Повторение</Filter>
+    </ClCompile>
+    <ClCompile Include="Задание №3. Цикл for. Range-based for loop %28цикл for each%29..cpp">
+      <Filter>Исходные файлы\Модуль 1\Модуль 1. Повторение</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
