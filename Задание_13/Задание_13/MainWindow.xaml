@@ -1,0 +1,22 @@
+﻿<Window x:Class="Задание_13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Supplier Orders" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10">
+            <ComboBox x:Name="SupplierComboBox" DisplayMemberPath="SupplierName" SelectedValuePath="SupplierID" Width="200" Margin="5"/>
+            <Button x:Name="AddOrderButton" Content="Add Order" Click="AddOrderButton_Click" Margin="5"/>
+            <Button x:Name="DeleteOrderButton" Content="Delete Order" Click="DeleteOrderButton_Click" Margin="5"/>
+        </StackPanel>
+        <DataGrid x:Name="OrdersDataGrid" Grid.Row="1" Margin="10" AutoGenerateColumns="False" CanUserAddRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Order ID" Binding="{Binding OrderID}"/>
+                <DataGridTextColumn Header="Order Date" Binding="{Binding OrderDate, StringFormat=d}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
