@@ -1,0 +1,15 @@
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\bin\Debug\Логин_Пароль.exe.config
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\bin\Debug\Логин_Пароль.exe
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\bin\Debug\Логин_Пароль.pdb
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль.csproj.AssemblyReference.cache
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\MainWindow.g.cs
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\App.g.cs
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль_MarkupCompile.cache
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль_MarkupCompile.lref
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\MainWindow.baml
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль.g.resources
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль.Properties.Resources.resources
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль.csproj.GenerateResource.cache
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль.exe
+C:\Users\ivans\source\repos\Логин_Пароль\Логин_Пароль\obj\Debug\Логин_Пароль.pdb
