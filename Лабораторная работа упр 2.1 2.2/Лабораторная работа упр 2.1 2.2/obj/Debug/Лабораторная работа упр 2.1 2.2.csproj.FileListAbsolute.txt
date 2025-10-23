@@ -1,0 +1,7 @@
+C:\Users\ivans\source\repos\Лабораторная работа упр 2.1 2.2\Лабораторная работа упр 2.1 2.2\bin\Debug\Лабораторная работа упр 2.1 2.2.exe.config
+C:\Users\ivans\source\repos\Лабораторная работа упр 2.1 2.2\Лабораторная работа упр 2.1 2.2\bin\Debug\Лабораторная работа упр 2.1 2.2.exe
+C:\Users\ivans\source\repos\Лабораторная работа упр 2.1 2.2\Лабораторная работа упр 2.1 2.2\bin\Debug\Лабораторная работа упр 2.1 2.2.pdb
+C:\Users\ivans\source\repos\Лабораторная работа упр 2.1 2.2\Лабораторная работа упр 2.1 2.2\obj\Debug\Лабораторная работа упр 2.1 2.2.csproj.AssemblyReference.cache
+C:\Users\ivans\source\repos\Лабораторная работа упр 2.1 2.2\Лабораторная работа упр 2.1 2.2\obj\Debug\Лабораторная работа упр 2.1 2.2.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\Лабораторная работа упр 2.1 2.2\Лабораторная работа упр 2.1 2.2\obj\Debug\Лабораторная работа упр 2.1 2.2.exe
+C:\Users\ivans\source\repos\Лабораторная работа упр 2.1 2.2\Лабораторная работа упр 2.1 2.2\obj\Debug\Лабораторная работа упр 2.1 2.2.pdb
