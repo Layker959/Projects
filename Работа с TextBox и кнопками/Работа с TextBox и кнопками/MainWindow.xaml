@@ -1,0 +1,24 @@
+﻿<Window x:Class="Работа_с_TextBox_и_кнопками.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Работа_с_TextBox_и_кнопками"
+        mc:Ignorable="d"
+        Title="Калькулятор" Height="500" Width="700">
+    <Grid x:Name="title" Background="Aqua">
+        <TextBlock x:Name="TXTBox" HorizontalAlignment="Left" Margin="270,150,0,0" TextWrapping="Wrap" Text="Введите числа для вычисления" VerticalAlignment="Top"/>
+        <TextBox x:Name="Vvod1" Margin="150,200,0,0" TextWrapping="Wrap" Text="" Height="34" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120"/>
+        <TextBox x:Name="Vvod2" Margin="300,200,0,0" TextWrapping="Wrap" Text="" HorizontalAlignment="Left" Width="120" Height="34" VerticalAlignment="Top"/>
+        <TextBox x:Name="Vvod3" Margin="450,200,0,0" TextWrapping="Wrap" Text="" Height="34" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120"/>
+        <Button x:Name="Button_vvod" Content="Посчитать" Margin="325,250,0,0" Click="Button_Click" Height="24" VerticalAlignment="Top" HorizontalAlignment="Left" Width="60" Background="White"/>
+        <Button x:Name="Exit" Content="Выход" HorizontalAlignment="Left" Margin="600,350,0,0" VerticalAlignment="Top" Click="Button_Click_1" Background="White"/>
+        <ComboBox x:Name="colorComboBox" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="180,300,0,0" SelectionChanged="colorComboBox_SelectionChanged">
+            <ComboBoxItem x:Name="BlackItem" Content="Чёрный"></ComboBoxItem>
+            <ComboBoxItem x:Name="RedItem" Content="Красный"></ComboBoxItem>
+            <ComboBoxItem x:Name="BlueItem"  Content="Синий"></ComboBoxItem>
+            <ComboBoxItem x:Name="GreenItem" Content="Зелёный"></ComboBoxItem>
+        </ComboBox>
+        <ListBox Width="100" Height="100" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="460,300,0,0"></ListBox>
+    </Grid>
+</Window>
