@@ -1,0 +1,11 @@
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\bin\Debug\net8.0-windows\Прыжки_спортсменов.deps.json
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\bin\Debug\net8.0-windows\Прыжки_спортсменов.dll
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\bin\Debug\net8.0-windows\Прыжки_спортсменов.pdb
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\Прыжки_спортсменов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\Прыжки_спортсменов.AssemblyInfoInputs.cache
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\Прыжки_спортсменов.AssemblyInfo.cs
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\Прыжки_спортсменов.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\Прыжки_спортсменов.dll
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\refint\Прыжки_спортсменов.dll
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\Прыжки_спортсменов.pdb
+C:\Users\ivans\source\repos\Прыжки_спортсменов\Прыжки_спортсменов\obj\Debug\net8.0-windows\ref\Прыжки_спортсменов.dll
