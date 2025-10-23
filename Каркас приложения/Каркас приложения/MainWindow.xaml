@@ -1,0 +1,29 @@
+﻿<Window x:Class="Каркас_приложения.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Каркас_приложения"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid HorizontalAlignment="Center" Height="434" Width="800">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="155*"/>
+                <ColumnDefinition Width="486*"/>
+                <ColumnDefinition Width="159*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="141*"/>
+                <RowDefinition Height="95*"/>
+                <RowDefinition Height="197*"/>
+            </Grid.RowDefinitions>
+            <Button Content="Button" HorizontalAlignment="Center" Height="26" Margin="0,4,0,0" VerticalAlignment="Top" Width="102" Grid.Row="2"/>
+            <Label Grid.Column="1" Content="RUSSIA" HorizontalAlignment="Center" Height="61" Grid.Row="1" VerticalAlignment="Center" Width="192" FontSize="48" FontFamily="Microsoft Sans Serif"/>
+            <Image Grid.RowSpan="2" Source="/Image4.png" Stretch="Fill" Margin="0,0,0,1"/>
+        </Grid>
+        <Grid.ColumnDefinitions>
+
+        </Grid.ColumnDefinitions>
+    </Grid>
+</Window>

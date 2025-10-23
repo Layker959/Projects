@@ -1,0 +1,15 @@
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\bin\Debug\Каркас приложения.exe.config
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\bin\Debug\Каркас приложения.exe
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\bin\Debug\Каркас приложения.pdb
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения.csproj.AssemblyReference.cache
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\MainWindow.g.cs
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\App.g.cs
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения_MarkupCompile.cache
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения_MarkupCompile.lref
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\MainWindow.baml
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения.g.resources
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас_приложения.Properties.Resources.resources
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения.csproj.GenerateResource.cache
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения.csproj.CoreCompileInputs.cache
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения.exe
+C:\Users\ivans\source\repos\Каркас приложения\Каркас приложения\obj\Debug\Каркас приложения.pdb
